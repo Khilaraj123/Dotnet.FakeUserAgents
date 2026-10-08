@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Dotnet.FakeUserAgents\Dotnet.FakeUserAgents.csproj" />
+    <ProjectReference Include="..\..\src\Dotnet.FakeUserAgents\Dotnet.FakeUserAgents.csproj" />
   </ItemGroup>
 
 </Project>
