@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Dotnet.FakeUserAgents/Dotnet.FakeUserAgents.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Dotnet.FakeUserAgents.Tests/Dotnet.FakeUserAgents.Tests.csproj" />
+  </Folder>
+</Solution>
